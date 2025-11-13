@@ -1,0 +1,1 @@
+The .ipynb file contains all the work done for the project. a two layer architecture of Random Forest and One-Class SVMS was used to detect the unseen attacks/ zero day attacks in the network through network packet simulation dataset CICIDS
